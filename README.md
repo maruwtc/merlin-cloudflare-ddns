@@ -15,17 +15,6 @@ Features include:
   - Logging of JSON responses for later inspection, and
   - Configurable rate-limiting to comply with Cloudflare API TOS
 
-
-## Contributors
-
-- [@epicylon](https://github.com/epicylon) - Verified works on RT-AC66U
-- [@bengalih](https://github.com/bengalih) - Several contributions toward support for API Tokens, proxying, and other enhancements.
-- [@gumanov](https://github.com/gumanov) - Verified works on RT-AX88U
-- [@clayauld](https://github.com/clayauld) - Verified works on RT-AC87U
-- [@ilasoft](https://github.com/ilasoft) - Verified works on RT-AX86U
-- [@sujitph](https://github.com/sujitph) - Verified works on GT-AX11000
-- [@Rapsssito](https://github.com/Rapsssito) - Verified works on RT-AC3200
-
 ## How to Configure
 
 ### Prerequisites
